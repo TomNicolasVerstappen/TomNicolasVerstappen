@@ -1,11 +1,13 @@
 #     Hi, I’m Tom Verstappen
-Born in Hamburg, lived in Berlin for 11 Years and a notorious creative. 
+Born in Hamburg, studied communication-design and sports, lived in Berlin for 11 years and a notorious creative. 
 <br>
 <br> Into:
 - **Bikes**,
 - **Music**,
 - **Sports**
+- **90´s Stuff**
 - **...and the world of frontend.**
+<b>
 <b>
 <b>
 <b>
