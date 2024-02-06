@@ -6,6 +6,10 @@ Born in Hamburg, lived in Berlin for 11 Years and a notorious creative.
 - Music,
 - Sports
 - ...and the world of frontend.
+<b>
+<b>
+<b>
+<b><img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
  
 
 <!---
