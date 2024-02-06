@@ -1,6 +1,12 @@
 #     Hi, I’m Tom Verstappen
 Born in Hamburg, lived in Berlin for 11 Years and a notorious creative. 
-Bikes, music, and the world wide web.
+<br>
+<br> Into:
+- Bikes,
+- Music,
+- Sports
+- ...and the world of frontend.
+ 
 
 <!---
 TomNicolasVerstappen/TomNicolasVerstappen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
