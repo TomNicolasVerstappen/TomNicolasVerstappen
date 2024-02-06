@@ -6,7 +6,7 @@ Born in Hamburg, studied communication-design and sports, lived in Berlin for 11
 - **Music**,
 - **Sports**
 - **90´s Stuff**
-- **Art & Desing**
+- **Art & Design**
 - **...and the world of frontend.**
 <b>
 <b>
