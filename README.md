@@ -2,9 +2,9 @@
 Born in Hamburg, studied communication-design and sports, lived in Berlin for 11 years and a notorious creative. 
 <br>
 <br> Into:
-- 🚲 **Bikes**,
-- 🎧 **Music**,
--  **Sports**
+- **Bikes**,
+- **Music**,
+- **Sports**
 - **90´s Stuff**
 - **Art & Design**
 - **...and the world of frontend.**
